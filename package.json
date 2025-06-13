@@ -7,5 +7,17 @@
   },
   "dependencies": {
     "venom-bot": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonikak004/dumwala-wa-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonikak004/dumwala-wa-bot/issues"
+  },
+  "homepage": "https://github.com/Sonikak004/dumwala-wa-bot#readme",
+  "description": ""
 }
